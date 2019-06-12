@@ -1,2 +1,0 @@
-# Java
-My Java projects
